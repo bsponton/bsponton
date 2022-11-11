@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bsponton
+- 👋 Hi, I’m @bsponton Björn Sponton
 - 👀 I’m interested in Linux scripting, automation and ansible in particular
 - 🌱 I’m currently learning github actions
 - 💞️ I’m looking to collaborate on (TBD...)
