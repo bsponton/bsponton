@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bsponton
 - 👀 I’m interested in Linux scripting, automation and ansible in particular
 - 🌱 I’m currently learning github actions
-- 💞️ I’m looking to collaborate on <TBD>
+- 💞️ I’m looking to collaborate on (TBD...)
 - 📫 How to reach me: bjorn@sponton.net
 
 <!---
